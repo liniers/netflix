@@ -1,0 +1,6 @@
+## Fase 4. Una mierda gigante. 2022-Actualidad
+
+El declive llega en abril de 2022: la compañía informó que había perdido suscriptores por primera vez en su historia, obviamente, esto alteró mucho a sus inversores, provocando que las acciones cayeran en un 35%. La compañía culpó ésta perdida de suscriptores, entre varios motivos, a la competencia y el intercambio generalizado de contraseñas. A sus accionistas les dijo que esto les estaba pasando a todos los negocios similares por factores externos como la inflación, bajo crecimiento económico, la guerra en Ucrania y el impacto del COVID-19.
+
+Este fue el memento en el que Netflix se convierte en un gigante montón de mierda. 
+Por un lado, Netflix ya estaba trabajando en una manera de capar el intercambio de contraseñas. Por otro lado, sabía que a sus usuarios no les importaría consumir “publicidad” si pagan menos en su suscripción. “Sabemos que los consumidores no tienen problemas con la publicidad siempre que sea una opción más barata y que también haya una opción sin comerciales”, dijo Zak Shaikh (Vicepresidente de Programación). Históricamente, el CEO Reed Hastings ha sido muy reacio a agregar anuncios al servicio. curiosamente, ya no.

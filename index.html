@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Netflix — Data Visualization</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+</head>
+<body>
+  <div id="header">
+    <img id="logo" src="assets/logo.png" alt="Netflix">
+    <div id="title"><span style="font-family: 'NetflixSansRegular', sans-serif; padding-right: .5rem; opacity: .7;">Estás viendo: </span> NETFLIX. Cómo nos convertimos en un buen montón de mierda</div>
+  </div>
+  
+  <div id="timelineWrapper">
+    <button id="prevPhaseBtn" class="hidden">← Fase anterior</button>
+    <div id="timeline"></div>
+    <button id="nextPhaseBtn">Siguiente fase →</button>
+  </div>
+  
+  <div id="content">
+    <div id="textBlock">
+      <div id="hito"></div>
+      <div id="descripcion"></div>
+    </div>
+    <div id="dataBlock">
+      <div class="metric">
+        <div class="metric-value" id="subscribersValue">0</div>
+        <div class="metric-label">Suscriptores</div>
+      </div>
+      <div class="metric">
+        <div class="metric-value" id="revenueValue">$0M</div>
+        <div class="metric-label">Millones de dólares</div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Start screen: requiere click para desbloquear audio -->
+  <div id="startScreen">
+    <img src="assets/logo.png" alt="Netflix" id="startLogo">
+    <p id="startCta">Click para empezar</p>
+  </div>
+
+  <!-- Tudum splash -->
+  <div id="tudumScreen">
+    <video id="tudumVideo" playsinline></video>
+  </div>
+
+  <!-- Homepage -->
+  <div id="homepageScreen">
+    <video id="homepageVideo" playsinline muted></video>
+    <div id="homepageOverlay"></div>
+    <div id="homepageHeader">
+      <img src="assets/logo.png" alt="Netflix" id="homepageLogo">
+    </div>
+    <div id="homepageContent">
+      <div id="homepageTags"></div>
+      <h1 id="homepageTitle"></h1>
+      <p id="homepageDesc"></p>
+      <div id="homepageBtns">
+        <button id="homepagePlayBtn">▶ Episodio 1: Bueno para los usuarios</button>
+        <button id="homepageInfoBtn">ⓘ Más info</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="introScreen">
+    <video id="introVideo" playsinline loop preload="auto"></video>
+    <div id="introOverlay"></div>
+    <div id="introContent">
+      <h2 id="introTitle"></h2>
+      <div id="introBody"></div>
+      <button id="introBtn">Ver datos</button>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="sketch.js"></script>
+</body>
+</html>

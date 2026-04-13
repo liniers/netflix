@@ -1,0 +1,28 @@
+year,stage,subscribers,basic,standard,premium,hito,descripcion,revenue
+1997,FASE 1,0.1,100,0,0,Se Funda Netflix.,"Reed Hastings y Marc Rudolph fundaron Netflix, permitiendo a 100.000 estadounidenses alquilar DVDs por internet sin ir al videoclub.",1.40
+2000,FASE 1,0.2,100,0,0,Nace el sistema de recomendación de películas personalizado.,,35.91
+2001,FASE 1,0.4,100,0,0,,,75.91
+2002,FASE 1,0.8,100,0,0,Netflix en bolsa (NFLX). Inversores aportan en la plataforma.,,152.80
+2003,FASE 1,1.4,100,0,0,Netflix patenta su modelo de negocio de alquiler por suscripción.,,272.24
+2004,FASE 1,2.5,100,0,0,,,506.22
+2005,FASE 1,4.0,100,0,0,Se lanza «Perfiles»: listas personalizadas para cada usuario.,,682.00
+2006,FASE 1,6.2,100,0,0,Se superan los 5 millones de suscriptores y rozando el billón de dólares.,,997.00
+2007,FASE 2,7.3,100,0,0,Netflix se inicia en el streaming.,,"1,205.00"
+2008,FASE 2,9.2,100,0,0,Netflix se asocia con marcas de electrónica para integrar la transmisión en consolas y TV,,"1,365.00"
+2009,FASE 2,11.9,100,0,0,,,"1,670.00"
+2010,FASE 2,18.3,70,30,0,"Más suscriptores. Netflix reduce su precio base de $7,99 (-$1) para favorecer las altas solo streaming.",,"2,160.00"
+2011,FASE 2,24.3,60,35,5,LLega el Botón a los controles remoto,,"3,200.00"
+2012,FASE 2,30.4,50,40,10,"Debut del contenido original: ""Lillyhammer""",,"3,600.00"
+2013,FASE 2,41.4,40,50,10,"Gran apuesta por las series: ""House of Cards"" y ""Orange Is The Nuew Black""",,"4,370.00"
+2014,FASE 3,54.5,30,60,10,Llega a Europa reportando más de 50 millones de suscriptores,,"5,500.00"
+2015,FASE 3,70.8,20,70,10,"Ahora España, Australia, Cuba, Italia, Japan, y Nueva Zelanda.",,"6,780.00"
+2016,FASE 3,89.1,20,65,15,Ya está en 190 países y en 21 idiomas. ,,"8,830.00"
+2017,FASE 3,110.6,20,60,20,Llega a los 100M suscriptores. La competencia empieza a movilizarse. Disney y otros estudios retiran todos sus títulos de Netflix para lanzar sus propios.,,"11,690.00"
+2018,FASE 3,139.3,18,58,24,,,"15,790.00"
+2019,FASE 3,167.1,15,55,30,,,"20,150.00"
+2020,FASE 3,203.7,15,55,30,"Netflix lanza el “TOP 10”, por primera vez los usuarios pueden saber que es lo más popular de su país.",,"24,990.00"
+2021,FASE 3,221.8,15,50,35,El confinamiento impulsó a Netflix a superar los 200 millones de suscriptores en 2021.,,"29,700.00"
+2022,FASE 4,230.8,15,45,35,El año del declive...,"50.7% del contenido de Netflix ahora es puramente original. Durante el momento de pérdidas de suscriptores, Netflix despidió a unos 300 empleados y anunció los primeros planes con anuncios y más restricciones con el intercambio de contraseñas.","31,620.00"
+2023,FASE 4,260.3,12,43,30,,,"33,720.00"
+2024,FASE 4,302.0,10,40,25,En los últimos dos años Netflix ha gastado unos 30 Billones de dolares en contenido propio.,,"39,100.00"
+2025,FASE 4,325.0,8,38,24,"Desde 2025, 4 de cada 10 suscriptores ya consumen anuncios.",,"45,200.00"
